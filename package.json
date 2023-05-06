@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cucumber": "^6.0.7",
+    "cucumber-html-reporter": "^6.0.0",
+    "cypress": "^12.11.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
